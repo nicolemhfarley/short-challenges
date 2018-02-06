@@ -1,1 +1,1 @@
-# short-challenges
+# my solutions to short codewars puzzles/challenges
